@@ -10,4 +10,4 @@ userinput=int(input('please input number : '))
 for x in range(userinput):
     for y in range(x):
         print("*",end='')
-    print("*")    
+    print("\r")    
